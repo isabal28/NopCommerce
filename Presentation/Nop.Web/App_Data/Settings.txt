@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=.\MSSQL2014;Initial Catalog=NopDeneme;Integrated Security=True;Persist Security Info=False
